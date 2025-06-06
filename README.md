@@ -81,8 +81,10 @@ git clone https://github.com/DDGCreativeSloutions/neo-explorer
 # Navigate into the directory
 cd neo-explorer
 
+# Install Dependencies
 npm install
 
+# Start the server
 npm start 
 
 ```
@@ -100,8 +102,8 @@ Made with 💫 by a passionate team of developers and space enthusiasts for the 
 ## 📬 Contact
 
 For collaboration, queries, or showcasing your NEO Explorer demo:
-📧 **\[prudvireddy7733@gmail.com]**
-🌐 **\[https://prudvi-kumar-reddy.vercel.app]**
+📧 **\[info@designdelivergrow.store]**
+🌐 **\[https://designdelivergrow.store]**
 
 ---
 
